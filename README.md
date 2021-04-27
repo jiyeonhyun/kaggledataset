@@ -1,6 +1,3 @@
-# kaggle titanic competition
-
-
 # 데이터 로드
 
 
